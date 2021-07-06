@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tienv2i
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning python (django), javascript, php, ...
+- 💞️ I’m looking to collaborate on myself
+- 📫 How to reach me: fb.com/huynhat1994
